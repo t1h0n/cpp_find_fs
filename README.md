@@ -1,4 +1,4 @@
-a small utility library that simplifies the usage of C++ Filesystem. It provides a convenient way to work with the C++ Filesystem library without directly including &lt;filesystem&gt; or &lt;experimental/filesystem&gt; headers in your code.
+a small utility library that simplifies the usage of C++ Filesystem. It provides a convenient way to work with the C++ Filesystem library without directly including &lt;filesystem&gt; or &lt;experimental/filesystem&gt; headers in your code. And handles cases where linking to fs (i.e. -lstdc++fs or similar)
 
 Usage:
 
